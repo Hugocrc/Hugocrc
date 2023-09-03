@@ -1,5 +1,6 @@
 # Hi! My name is Hugo 😉
 
+I am a recent graduate in Computer Science.
 <!--
 **Hugocrc/Hugocrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
